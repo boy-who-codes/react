@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;900&display=swap');
+@import url('../src/components/css/font.css');
+.html{
+    scroll-behavior:smooth;
+} 
+body{
+    background-color: #101C28;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}

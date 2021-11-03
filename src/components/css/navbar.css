@@ -1,3 +1,7 @@
-nav{
-   
+@import url('./font.css');
+.navbar a{
+    font-family: 'Montserrat', sans-serif;
+}
+.brandy{
+    font-family: 'osiris' !important;
 }

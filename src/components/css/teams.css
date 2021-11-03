@@ -1,0 +1,16 @@
+@import url('./font.css');
+
+.teams{
+    background-color: #13212E;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+}
+.slider img{
+    margin:25px;
+}
+.slider{
+    
+    width: 100%;
+}

@@ -1,20 +1,37 @@
-.header{
-    width: 100%;
-    height: 100vh;
-
-}
-.container{
+@import url('./font.css');
+.text{
     width: 90%;
-}
-.center{
-    width: 80%;
     height: 200px;
-    position: absolute;
     margin: auto;
-    top:0;
+    position: relative;
+    top: 0;
     bottom: 0;
-    left:0;
-    right:0;
-    align-items: center;
-    text-align: justify;
+    left: 0;
+    right: 0;
 }
+.text h1{
+    font-family: 'osiris';
+    font-size: 50px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+
+.gs{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    background-color: #9FEF00;
+    padding: 10px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.header img{
+    width: 100%;
+}
+@media (max-width:600px) {
+    .header img{
+        margin-top: 200px;
+    }
+  }
