@@ -19,7 +19,8 @@ export default function Footer (){
                 &nbsp;&nbsp;
                 <a href="#"><i className="fab fa-instagram"></i></a>
                 <br/><br/>
-                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled </p>
+                     <p>"3,333 Genesis Dragons and 4,444 Baby Dragons trying to find their place in the Metaverse"
+</p>
                  </div>
             </div>
             </div>
@@ -27,7 +28,9 @@ export default function Footer (){
                <center>
                <hr className="dropdown-divider"/>
              
-                   <p>&copy; 2021 Veteran dragon</p>
+               <p>&copy; 2021 Veteran Dragons All Rights Reserved</p>
+               
+               <p> A Caritas Labs project</p>
                 </center>
         </div>
     </div>

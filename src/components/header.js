@@ -10,7 +10,8 @@ export default function Header(){
                         <div className="text">
                         <br/><br/><br/><br/><br/><br/><br/>
                             <h1>VETERAN <br/> DRAGONS</h1>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare massa ornare est amet ac. Blandit elit diam tortor dignissim vitae netus est viverra.</p>
+                            <p>Veteran Dragons are a collection of 3,333 genesis dragons coming to reclaim their place in the Metaverse! We'll also be donating 70% of the mint proceeds as well as 50% of royalties to charity for veterans. 
+</p>
                             <button className="gs">Get Started</button>
                             </div>
                     </div>

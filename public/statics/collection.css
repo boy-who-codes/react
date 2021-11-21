@@ -1,0 +1,21 @@
+
+@import url('../index.css');
+.color{
+    color:#9FEF00;
+}
+h1{
+    font-family: 'osiris';
+}
+.button{
+    color:#000;
+    background-color: #9FEF00;
+    padding: 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-family: 'osiris';
+
+}
+.card{
+   margin-top:10px;
+}

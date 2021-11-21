@@ -14,7 +14,8 @@ export default function About(){
         <div className="col-sm">
         <h1>VETERAN DRAGONS</h1>
     <br/>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare massa ornare est amet ac. Blandit elit diam tortor dignissim vitae netus est viverra </p>
+    <p>3,333 Genesis Dragons will be brought into the Metaverse. Each Genesis Dragon will produce 5 $RUNES per day just for holding no staking needed. 700 $RUNES can be used to breed 4,444 cute but fierce baby dragons. Baby dragons will have all the same benefits as Genesis Dragons except they will not produce $RUNES. 
+</p>
 
         </div>
         
